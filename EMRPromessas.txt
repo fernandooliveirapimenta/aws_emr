@@ -1,0 +1,4 @@
+EMR cobra por hora + Ec2 cobrancas
+Provisiona novos nodes se um core node falha
+Pode ser adicionado e removidos tasks node
+Code mudar o tamanho do cluster e core nodes

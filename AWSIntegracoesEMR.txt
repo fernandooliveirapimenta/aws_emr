@@ -1,0 +1,8 @@
+EC2 - para instancias nodes
+VPC - para rede virtual para as instancias lancadas
+S3 -  para armazenar dados de entrada e saida
+CludWatch - para monitorar o cluster
+IAM - permissões
+CloudTrail - auditoria
+AWS Data Pipeline - agendar o start do cluster
+

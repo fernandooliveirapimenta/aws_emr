@@ -1,0 +1,12 @@
+O que é:
+permite o processamento distribuido de grandes conjuntos de dados entre clusters, ou seja usar varias maquinas para realizar o processamento.
+
+MapReduce: Processamento Batch nao resolve todos os problemas
+
+
+Yarn(Yet another resource negotiator): veio no hadoop 2.0, é negociador de recursos para o hadoop, framework de computacao, 
+é uma api que roda encima do hdfs que fornece diversas infos (ex usar memoria ram para rodar job em memoria)
+
+HDFS: Hadoop distributed file system( sistema de arquivos distribuidos) projetado para imensa qtd de dados) é redundante e altamente disponivel
+
+Zookeper:

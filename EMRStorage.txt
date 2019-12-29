@@ -1,0 +1,5 @@
+HDFS
+EMRFS(S3) - acessa S3 como se fosse o HDFS
+usa o dynamodb para consistencia
+Local file system
+EBS para o HDFS
