@@ -1,0 +1,19 @@
+Ferrament para copiar grande quantidade de dados
+do S3 para HDFS
+do HDFS para S3
+
+usa mapreduce para copiar no distributed manner
+copia paralela
+
+entre buckets e entre contas
+
+Ganglia (monitoring)
+Mahout (machine learning)
+Accumulo (outro Nosql database)
+Sqoop (sql connector
+HCatalog(storage para hive metastore)
+Kinesis Connector (acesso direto ao kinesis streams nos sscripts)
+Tachuon (acelerador para spark)
+Derby (opensorce DB in java)
+Ranger (segurance dos dados para haddop)
+
