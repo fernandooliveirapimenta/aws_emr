@@ -1,0 +1,3 @@
+- Splunk/Hunk faz o dado da maquina acessivel, usavel e avaliado para todos
+
+- Ferramenta operacional - pode ser usado para visualizar EMR e S3 data usando seu EMR hadoop cluter

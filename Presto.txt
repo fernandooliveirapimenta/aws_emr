@@ -1,0 +1,22 @@
+Pode conectar varios big data databases e data stores e realizar query em todos
+
+interativo em petabyte scale
+
+Familiar com SQL
+
+Otimizado para OLAP 
+
+Amazon Athena usa Presto por baixo dos panos
+
+Expoe interfaces - JDBC, linha de comando e Tableau 
+
+
+Connectores
+HDFS
+S3
+Cassandra
+MongoDB
+HBase
+SQL
+Redshift
+Teradata

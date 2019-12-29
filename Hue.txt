@@ -1,0 +1,6 @@
+HUE = Hadoop Users Experience
+Ferramenta administrativa.
+Hue é uma interface grafica front-end para aplicacoes no seu EMR cluster.
+
+integracao com IAM
+S3: podemos procura e mover data entre o HDFS e o S3

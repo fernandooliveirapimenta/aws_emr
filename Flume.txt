@@ -1,0 +1,7 @@
+Flume?
+Outra forma de stream dados dentro do seu cluster
+Originalmente feito para aggregacao de logs
+
+webservers -> source -> channel -> sink -> hbase
+
+O objetivo principal do Flume é ingerir dados de eventos no HDFS (Hadoop Distributed File System) de forma simples e automatizada. Porém, seu uso não se limita apenas ao HDFS; é possível enviar também dados para um arquivo ou banco de dados, entre outros.

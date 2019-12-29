@@ -1,0 +1,33 @@
+É parecido com iPython notebooks
+permite rodar scripts interativos/codigo nos dados
+pode compartilhar notebooks com outros do cluster
+
+-Spark
+-Pyhton
+-JDBC
+-HBase
+-Elastiserarc 
+-
+
+zeppelin = notebook
+zeppelin = notebook
+zeppelin = notebook
+zeppelin = notebook
+
+
+Zeppelin + Spark
+
+Permite rodar codigo spark de maneira interativa ( como python perl)
+agiliza o ciclo de desenvolvimento
+permite facil experiencia e exploracao da sua big data
+
+Permite executar SQL queries diretamento do SparkSQL
+Resultados podem ser visualizados em graficos
+
+Faz o spark ficar parecido com uma ferramenta de data science
+
+EMR notebook
+conceito similar ao zeppelin com mais integracao a servicos AWS
+
+Hospedado em uma VPC
+Accessado somente via AWS console

@@ -1,0 +1,3 @@
+Parecido com Tensorflow.
+Biblioteca para construir e acelerar redes neurais
+Esta presente no EMR
