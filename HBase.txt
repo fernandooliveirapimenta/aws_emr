@@ -1,0 +1,20 @@
+NoSql, nao relacional.
+Banco de dados que escala petabyte
+Baseado no google BigTable
+Em momoria ram
+Integracao com HIVE
+
+Parecido com DynamoDB
+
+Hbase sv dynamodb
+dynamodb - totalmente gerenciado com auto scaling, maior integracao com outros sservicos aws, integracao com Glue
+
+Hbase:
+eficiente storage
+apropriado para alta frequencia 
+alta escrita e update
+maior integracao com hadoop
+
+AWS integracoes
+
+Pode armazenar dados no S3 via EMRFS

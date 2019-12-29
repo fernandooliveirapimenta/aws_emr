@@ -1,0 +1,12 @@
+Escrever mappers e reducers na mão leva um grande tempo
+
+Pig Latin é uma linguagem de script que permite usar SQL sintaxe para definer os passos de map e reduce
+
+Altamente extensivel quando defice funcoes.
+
+
+AWS integration
+Abilidade de usar diversos file sustems nao só HDFS
+ex: Poder usar S3
+
+Carregar JAR`s e scripts do S3
