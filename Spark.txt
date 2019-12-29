@@ -1,0 +1,20 @@
+Spark Streaming:
+Ex kinesis + spark
+Kinesis Producer -> Kinesis Data Streams -> Spark with KCL (Kinesis consumer library)
+
+Spark SQL:
+
+MLLib (machine learning):
+
+GraphX:
+
+
+Spark Core:
+
+
+Spark + Redshift
+permite spark datasets do redshift
+spark sql data source
+bastante usado para ETL usando spark
+
+S3 -> Redshift -> AWS EMR(Spark) -> Redshift

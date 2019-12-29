@@ -1,0 +1,28 @@
+Por que Hive? Colmeia
+
+Usa SQL sintaxe (HiveQL)
+Interativo
+Escalavel
+Facil OLAP querys - mais facil que mapreduce com java
+Altamento otimizado
+altamento extensivel
+JDBC/ODBC driver
+
+Hive Metastore
+
+Hive matem a metastore armazenada no HDFS
+
+External Hive Metastore
+Metastore é armazenado no MySQL no master node por default
+
+
+External metastore melhor resiliencia
+AWS Glue Data Catalog
+Amazon RDS
+
+Hive Aws integration
+
+Carregar particoes da tabela vindos do S3
+Escrever tabelas no S3
+Carregar scripts do s3
+Dynamodb como uma tabela externa
