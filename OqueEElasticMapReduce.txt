@@ -1,0 +1,27 @@
+EMR = Elatic map reduce
+
+Gerenciado hadoop framework em instancias Ec2
+Inclui Spark, HBase, Presto, Flink, Hive e mais
+EMR Notebooks
+Varias integracoes com servicos aws
+
+Presto - engine para sql query distribuido
+Flink - processamento de stream
+
+EMR Cluster
+
+[MasterNode -> CoreNode1 -> CoreNode2] -> TaskNode
+Master node: gerencia o cluster
+Core node: hospeda o HDFS dados e roda as tarefas pode ser escalado para cima ou para baixo
+Task node: roda tarefas, nao armazena dados, sem risco de perda de dados
+bom uso para instancias spot
+
+EMR uso
+Transient vs Cluster Longo
+transient: temporario
+longo: reservar instancias para poupar dinheiro
+
+conecta direto no mater para rodar os jobs
+submit ordens via console
+
+
